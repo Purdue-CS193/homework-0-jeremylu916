@@ -17,6 +17,7 @@ Jeremy's First CS193 Homework# Header 1
 
 - Bulleted
 - List
+
 - my favorite things about CS193:
 - teachers
 - studnets
